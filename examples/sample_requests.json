@@ -1,0 +1,74 @@
+[
+  {
+    "scenario": "Transfer Failed",
+    "request": {
+      "message": "I transferred $500 to my friend 3 days ago but the money has not arrived yet. The transfer ID is TXN-88234."
+    }
+  },
+  {
+    "scenario": "Blocked Account",
+    "request": {
+      "message": "My account has been blocked after I tried to make a large transfer. I urgently need access restored."
+    }
+  },
+  {
+    "scenario": "Suspicious Transaction",
+    "request": {
+      "message": "I see an unauthorized charge of $1,200 on my account that I did not make. This looks like fraud. Please help immediately!"
+    }
+  },
+  {
+    "scenario": "Refund Request",
+    "request": {
+      "message": "I returned a product to an online store two weeks ago and they said the refund was processed, but I still haven't received the money in my account."
+    }
+  },
+  {
+    "scenario": "Card Not Received",
+    "request": {
+      "message": "I requested a new credit card 15 days ago but it has not arrived yet. My old card has expired and I cannot make payments."
+    }
+  },
+  {
+    "scenario": "Lost Card",
+    "request": {
+      "message": "I lost my debit card at the shopping mall. I need to block it immediately before someone uses it."
+    }
+  },
+  {
+    "scenario": "Login Issue",
+    "request": {
+      "message": "I am unable to log into my internet banking account. It says my credentials are incorrect but I am sure I am using the right password."
+    }
+  },
+  {
+    "scenario": "Password Reset",
+    "request": {
+      "message": "I forgot my banking app password and the reset link sent to my email is not working. Can you help me reset it?"
+    }
+  },
+  {
+    "scenario": "Account Balance Inquiry",
+    "request": {
+      "message": "What is my current available balance? I see my balance in the app but there is a pending amount I do not understand."
+    }
+  },
+  {
+    "scenario": "Loan Support",
+    "request": {
+      "message": "I am interested in applying for a personal loan of $10,000. What are the current interest rates and what documents do I need to provide?"
+    }
+  },
+  {
+    "scenario": "Fraud / Hacked Account",
+    "request": {
+      "message": "I think my account has been hacked. There are multiple transactions I did not authorise and my password was changed without my knowledge."
+    }
+  },
+  {
+    "scenario": "General Inquiry",
+    "request": {
+      "message": "What are your branch opening hours and is there a branch near the city centre?"
+    }
+  }
+]
