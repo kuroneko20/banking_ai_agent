@@ -6,7 +6,7 @@ Hệ thống AI Agent Workflow hỗ trợ khách hàng ngân hàng, xây dựng 
 
 ## 🎬 Video Demo
 
-[![▶ Xem Video Demo](https://img.shields.io/badge/▶%20Xem%20Video%20Demo-Google%20Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/YOUR_FILE_ID/view)
+[![▶ Xem Video Demo](https://img.shields.io/badge/▶%20Xem%20Video%20Demo-Google%20Drive-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1-fKP7EOJUXogs3XgG5PYN5ssfzmwycRf/view?usp=sharing)
 
 
 
